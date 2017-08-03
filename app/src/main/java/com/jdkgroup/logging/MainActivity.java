@@ -12,6 +12,6 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
 
-        Debug.log("Tag", "Welcome to  android");
+        Debug.log("Tag", "Welcome to  android");  
     }
 }
